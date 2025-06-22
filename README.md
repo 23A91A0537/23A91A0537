@@ -117,7 +117,7 @@ Here are some of the technologies and tools I enjoy working with:
 
 ## 📫 Let's Connect & Build Something Amazing!
 
----
+<img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)" Width="600"/>
 
 <div align="center">More actions
 
