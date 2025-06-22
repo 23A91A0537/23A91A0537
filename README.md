@@ -113,6 +113,7 @@ Here are some of the technologies and tools I enjoy working with:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23A91A0537&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=23A91A0537&theme=dracula)](https://git.io/streak-stats)
+
 </div>
 
 ---
